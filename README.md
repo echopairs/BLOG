@@ -1,3 +1,3 @@
-# blog zsy_dev
+# blog
 Record life technology blog
 this is ok
